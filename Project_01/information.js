@@ -1,0 +1,1 @@
+console.log (" npm init   npm i express  npm i mongoose  npm i ejs  npm i shortid  npm i cookie-parser npm i jsonwebtoken  create a start script");
